@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "M1",
+    "title": "Exam M1",
+    "questions": [
+      {
+        "text": "A wooden box of rectangular section 1.25 m wide, 2 m deep, 4 m long floats horizontally in sea water. If the specific gravity of wood is 0.64 and for sea water = 1.025. Then the position of center of buoyancy is given by:",
+        "options": {
+          "A": "0.62 m above the base",
+          "B": "0.84 m above the base",
+          "C": "1.24 m above the base",
+          "D": "0.25 m above the base"
+        },
+        "answer": "A",
+        "id": 1
+      },
+      {
+        "text": "The discharge through a V-notch varies as: (Where H is the head)",
+        "options": {
+          "A": "H",
+          "B": "H3/2",
+          "C": "H5/2",
+          "D": "H1/2"
+        },
+        "answer": "C",
+        "id": 2
+      },
+      {
+        "text": "Which of the following is the unit of kinematic viscosity?",
+        "options": {
+          "A": "Poise",
+          "B": "Stoke",
+          "C": "Faraday",
+          "D": "Pascal"
+        },
+        "answer": "B",
+        "id": 3
+      },
+      {
+        "text": "At sharp horizontal curves on highways radius \"R\" (in meters), the percentage reduction in gradient, provided to compensate the loss of traction force due to curvature is:",
+        "options": {
+          "A": "75/R",
+          "B": "100/R",
+          "C": "125/R",
+          "D": "50/R."
+        },
+        "answer": "D",
+        "id": 4
+      },
+      {
+        "text": "As speed increases, friction coefficient:",
+        "options": {
+          "A": "Increases",
+          "B": "Remains same",
+          "C": "Decreases",
+          "D": "First increases then decreases"
+        },
+        "answer": "B",
+        "id": 5
+      },
+      {
+        "text": "Psychological Widening in the extra width provided in the pavement on the curves is: (symbols have their usual meaning)",
+        "options": {
+          "A": "V/9.5√𝑹",
+          "B": "V/2R",
+          "C": "nl2/2R",
+          "D": "nl2/R"
+        },
+        "answer": "A",
+        "id": 6
+      },
+      {
+        "text": "The minimum length of Transition Curves as per Indian Road Congress for plain terrain is: (Symbols have their usual meaning)",
+        "options": {
+          "A": "80/ (75 + J)",
+          "B": "2.7 V²/R",
+          "C": "V²/225 R",
+          "D": "0.0215 V³ /CR"
+        },
+        "answer": "D",
+        "id": 7
+      },
+      {
+        "text": "An ascending gradient 1 in 100 meets a descending gradient of 1 in 120. The deviation angle for designing of summit curve is:",
+        "options": {
+          "A": "1/600",
+          "B": "1/12000",
+          "C": "11/600",
+          "D": "-1/12000."
+        },
+        "answer": "C",
+        "id": 8
+      },
+      {
+        "text": "In the penetration test for bitumen, the least count in the penetrometer is:",
+        "options": {
+          "A": "0.1 mm",
+          "B": "0.01 mm",
+          "C": "0.001 mm",
+          "D": "1 mm"
+        },
+        "answer": "C",
+        "id": 9
+      },
+      {
+        "text": "According to Darcy's law, the rate of flow water through soil, for laminar flow condition in a saturated soil is: (Where, Q = rate of flow, i = hydraulic gradient, k = Darcy's coefficient of permeability, A = total cross sectional area of soil mass perpendicular to direction of flow.)",
+        "options": {
+          "A": "Q = ki²A",
+          "B": "Q = kiA²",
+          "C": "Q = kiA",
+          "D": "Q = k²iA"
+        },
+        "answer": "B",
+        "id": 10
+      },
+      {
+        "text": "The root zone of an irrigation soil has dry weight of 15 kN/m² and a field capacity of 30%. The depth of moisture in the root zone at field capacity is: (Take unit weight of water = 9.81 kN/m³)",
+        "options": {
+          "A": "600 mm/m",
+          "B": "779 mm/m",
+          "C": "800 mm/m",
+          "D": "459 mm/m"
+        },
+        "answer": "D",
+        "id": 11
+      },
+      {
+        "text": "The salinity concentration of soil solution (Cs) is given by which of the following formulas?  Civil JunctionWhere, C = concentration of salt in irrigation water, Q = total quantity of water applied to the soil, Cu = consumptive use of water, peff =Useful rainfall)",
+        "options": {
+          "A": "Cs = C2 Q2 / Q - (Cu - peff)",
+          "B": "Cs = C.Q / Q - (Cu - peff)",
+          "C": "Cs = C.Q / 2[ Q - (Cu - peff)]",
+          "D": "Cs = C.Q2 / Q - (Cu - peff)"
+        },
+        "answer": "D",
+        "id": 12
+      },
+      {
+        "text": "The optimal number of rain gauge stations N required for a desired accuracy in the estimation of mean rainfall is: (C_v = the coefficient of variations of the values, e = error in the percentage)",
+        "options": {
+          "A": "(Cv / ∈)²",
+          "B": "Cv /∈²",
+          "C": "Cv / ∈",
+          "D": "Cv² / ∈"
+        },
+        "answer": "B",
+        "id": 13
+      },
+      {
+        "text": "In the method of irrigation, water is applied to a field by means of small, narrow field channel and is suitable for crops grown in rows. Since the water is not applied to the entire area, the consumption of water is less, is described by which method of irrigation?",
+        "options": {
+          "A": "Flood irrigation",
+          "B": "Furrow irrigation",
+          "C": "Perennial irrigation",
+          "D": "Basin irrigation"
+        },
+        "answer": "A",
+        "id": 14
+      },
+      {
+        "text": "The stress level below which a material has a high probability of not failing under reversal of stress is known as:",
+        "options": {
+          "A": "Endurance limit",
+          "B": "Proportional limit",
+          "C": "Tolerance limit",
+          "D": "Elastic limit"
+        },
+        "answer": "A",
+        "id": 15
+      },
+      {
+        "text": "In terms of bulk modulus (K) and modulus of rigidity (G), the Poisson's ratio can be expressed as:",
+        "options": {
+          "A": "(3K + 4G) / (6K - 4G)",
+          "B": "(3K - 2G) / (6K + 2G)",
+          "C": "(3K + 2G) / (6K - 4G)",
+          "D": "(3K - 4G) / (6K + 4G)"
+        },
+        "answer": "D",
+        "id": 16
+      },
+      {
+        "text": "If the Poisson's ratio for a material is 0.5, then the elastic modulus for the material is:",
+        "options": {
+          "A": "Four times its shear modulus",
+          "B": "Equal to its shear modulus",
+          "C": "Half of its shear modulus",
+          "D": "Three times its shear modulus ."
+        },
+        "answer": "B",
+        "id": 17
+      },
+      {
+        "text": "Number of nominal bricks required for 15 m³ of brick work is approximately: (consider nominal size of bricks)",
+        "options": {
+          "A": "6750",
+          "B": "7200",
+          "C": "6000",
+          "D": "7500"
+        },
+        "answer": "A",
+        "id": 18
+      },
+      {
+        "text": "The timber preservative \"creosote\" belongs to the group of:",
+        "options": {
+          "A": "Tar oil types",
+          "B": "Organic solvent type",
+          "C": "Inorganic solvent type",
+          "D": "Water soluble salts"
+        },
+        "answer": "D",
+        "id": 19
+      },
+      {
+        "text": "The optimistic time, most likely time and pessimistic time estimates of an activity are 5, 10 and 21 days respectively. What are the expected time and standard deviation?",
+        "options": {
+          "A": "11, 2.67",
+          "B": "11, 4.67",
+          "C": "10, 16.27",
+          "D": "12, 3.67"
+        },
+        "answer": "C",
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "M2",
+    "title": "Exam M2",
+    "questions": [
+      {
+        "text": "A wooden box of rectangular section 1.25 m wide, 2 m deep, 4 m long floats horizontally in sea water. If the specific gravity of wood is 0.64 and for sea water = 1.025. Then the position of center of buoyancy is given by:",
+        "options": {
+          "A": "0.62 m above the base",
+          "B": "0.84 m above the base",
+          "C": "1.24 m above the base",
+          "D": "0.25 m above the base"
+        },
+        "answer": "A",
+        "id": 1
+      },
+      {
+        "text": "The discharge through a V-notch varies as: (Where H is the head)",
+        "options": {
+          "A": "H",
+          "B": "H3/2",
+          "C": "H5/2",
+          "D": "H1/2"
+        },
+        "answer": "C",
+        "id": 2
+      },
+      {
+        "text": "Which of the following is the unit of kinematic viscosity?",
+        "options": {
+          "A": "Poise",
+          "B": "Stoke",
+          "C": "Faraday",
+          "D": "Pascal"
+        },
+        "answer": "B",
+        "id": 3
+      },
+      {
+        "text": "At sharp horizontal curves on highways radius \"R\" (in meters), the percentage reduction in gradient, provided to compensate the loss of traction force due to curvature is:",
+        "options": {
+          "A": "75/R",
+          "B": "100/R",
+          "C": "125/R",
+          "D": "50/R."
+        },
+        "answer": "D",
+        "id": 4
+      },
+      {
+        "text": "As speed increases, friction coefficient:",
+        "options": {
+          "A": "Increases",
+          "B": "Remains same",
+          "C": "Decreases",
+          "D": "First increases then decreases"
+        },
+        "answer": "B",
+        "id": 5
+      },
+      {
+        "text": "Psychological Widening in the extra width provided in the pavement on the curves is: (symbols have their usual meaning)",
+        "options": {
+          "A": "V/9.5√𝑹",
+          "B": "V/2R",
+          "C": "nl2/2R",
+          "D": "nl2/R"
+        },
+        "answer": "A",
+        "id": 6
+      },
+      {
+        "text": "The minimum length of Transition Curves as per Indian Road Congress for plain terrain is: (Symbols have their usual meaning)",
+        "options": {
+          "A": "80/ (75 + J)",
+          "B": "2.7 V²/R",
+          "C": "V²/225 R",
+          "D": "0.0215 V³ /CR"
+        },
+        "answer": "D",
+        "id": 7
+      },
+      {
+        "text": "An ascending gradient 1 in 100 meets a descending gradient of 1 in 120. The deviation angle for designing of summit curve is:",
+        "options": {
+          "A": "1/600",
+          "B": "1/12000",
+          "C": "11/600",
+          "D": "-1/12000."
+        },
+        "answer": "C",
+        "id": 8
+      },
+      {
+        "text": "In the penetration test for bitumen, the least count in the penetrometer is:",
+        "options": {
+          "A": "0.1 mm",
+          "B": "0.01 mm",
+          "C": "0.001 mm",
+          "D": "1 mm"
+        },
+        "answer": "C",
+        "id": 9
+      },
+      {
+        "text": "According to Darcy's law, the rate of flow water through soil, for laminar flow condition in a saturated soil is: (Where, Q = rate of flow, i = hydraulic gradient, k = Darcy's coefficient of permeability, A = total cross sectional area of soil mass perpendicular to direction of flow.)",
+        "options": {
+          "A": "Q = ki²A",
+          "B": "Q = kiA²",
+          "C": "Q = kiA",
+          "D": "Q = k²iA"
+        },
+        "answer": "B",
+        "id": 10
+      },
+      {
+        "text": "The root zone of an irrigation soil has dry weight of 15 kN/m² and a field capacity of 30%. The depth of moisture in the root zone at field capacity is: (Take unit weight of water = 9.81 kN/m³)",
+        "options": {
+          "A": "600 mm/m",
+          "B": "779 mm/m",
+          "C": "800 mm/m",
+          "D": "459 mm/m"
+        },
+        "answer": "D",
+        "id": 11
+      },
+      {
+        "text": "The salinity concentration of soil solution (Cs) is given by which of the following formulas?  Civil JunctionWhere, C = concentration of salt in irrigation water, Q = total quantity of water applied to the soil, Cu = consumptive use of water, peff =Useful rainfall)",
+        "options": {
+          "A": "Cs = C2 Q2 / Q - (Cu - peff)",
+          "B": "Cs = C.Q / Q - (Cu - peff)",
+          "C": "Cs = C.Q / 2[ Q - (Cu - peff)]",
+          "D": "Cs = C.Q2 / Q - (Cu - peff)"
+        },
+        "answer": "D",
+        "id": 12
+      },
+      {
+        "text": "The optimal number of rain gauge stations N required for a desired accuracy in the estimation of mean rainfall is: (C_v = the coefficient of variations of the values, e = error in the percentage)",
+        "options": {
+          "A": "(Cv / ∈)²",
+          "B": "Cv /∈²",
+          "C": "Cv / ∈",
+          "D": "Cv² / ∈"
+        },
+        "answer": "B",
+        "id": 13
+      },
+      {
+        "text": "In the method of irrigation, water is applied to a field by means of small, narrow field channel and is suitable for crops grown in rows. Since the water is not applied to the entire area, the consumption of water is less, is described by which method of irrigation?",
+        "options": {
+          "A": "Flood irrigation",
+          "B": "Furrow irrigation",
+          "C": "Perennial irrigation",
+          "D": "Basin irrigation"
+        },
+        "answer": "A",
+        "id": 14
+      },
+      {
+        "text": "The stress level below which a material has a high probability of not failing under reversal of stress is known as:",
+        "options": {
+          "A": "Endurance limit",
+          "B": "Proportional limit",
+          "C": "Tolerance limit",
+          "D": "Elastic limit"
+        },
+        "answer": "A",
+        "id": 15
+      },
+      {
+        "text": "In terms of bulk modulus (K) and modulus of rigidity (G), the Poisson's ratio can be expressed as:",
+        "options": {
+          "A": "(3K + 4G) / (6K - 4G)",
+          "B": "(3K - 2G) / (6K + 2G)",
+          "C": "(3K + 2G) / (6K - 4G)",
+          "D": "(3K - 4G) / (6K + 4G)"
+        },
+        "answer": "D",
+        "id": 16
+      },
+      {
+        "text": "If the Poisson's ratio for a material is 0.5, then the elastic modulus for the material is:",
+        "options": {
+          "A": "Four times its shear modulus",
+          "B": "Equal to its shear modulus",
+          "C": "Half of its shear modulus",
+          "D": "Three times its shear modulus ."
+        },
+        "answer": "B",
+        "id": 17
+      },
+      {
+        "text": "Number of nominal bricks required for 15 m³ of brick work is approximately: (consider nominal size of bricks)",
+        "options": {
+          "A": "6750",
+          "B": "7200",
+          "C": "6000",
+          "D": "7500"
+        },
+        "answer": "A",
+        "id": 18
+      },
+      {
+        "text": "The timber preservative \"creosote\" belongs to the group of:",
+        "options": {
+          "A": "Tar oil types",
+          "B": "Organic solvent type",
+          "C": "Inorganic solvent type",
+          "D": "Water soluble salts"
+        },
+        "answer": "D",
+        "id": 19
+      },
+      {
+        "text": "The optimistic time, most likely time and pessimistic time estimates of an activity are 5, 10 and 21 days respectively. What are the expected time and standard deviation?",
+        "options": {
+          "A": "11, 2.67",
+          "B": "11, 4.67",
+          "C": "10, 16.27",
+          "D": "12, 3.67"
+        },
+        "answer": "C",
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "M3",
+    "title": "Exam M3",
+    "questions": [
+      {
+        "text": "A wooden box of rectangular section 1.25 m wide, 2 m deep, 4 m long floats horizontally in sea water. If the specific gravity of wood is 0.64 and for sea water = 1.025. Then the position of center of buoyancy is given by:",
+        "options": {
+          "A": "0.62 m above the base",
+          "B": "0.84 m above the base",
+          "C": "1.24 m above the base",
+          "D": "0.25 m above the base"
+        },
+        "answer": "A",
+        "id": 1
+      },
+      {
+        "text": "The discharge through a V-notch varies as: (Where H is the head)",
+        "options": {
+          "A": "H",
+          "B": "H3/2",
+          "C": "H5/2",
+          "D": "H1/2"
+        },
+        "answer": "C",
+        "id": 2
+      },
+      {
+        "text": "Which of the following is the unit of kinematic viscosity?",
+        "options": {
+          "A": "Poise",
+          "B": "Stoke",
+          "C": "Faraday",
+          "D": "Pascal"
+        },
+        "answer": "B",
+        "id": 3
+      },
+      {
+        "text": "At sharp horizontal curves on highways radius \"R\" (in meters), the percentage reduction in gradient, provided to compensate the loss of traction force due to curvature is:",
+        "options": {
+          "A": "75/R",
+          "B": "100/R",
+          "C": "125/R",
+          "D": "50/R."
+        },
+        "answer": "D",
+        "id": 4
+      },
+      {
+        "text": "As speed increases, friction coefficient:",
+        "options": {
+          "A": "Increases",
+          "B": "Remains same",
+          "C": "Decreases",
+          "D": "First increases then decreases"
+        },
+        "answer": "B",
+        "id": 5
+      },
+      {
+        "text": "Psychological Widening in the extra width provided in the pavement on the curves is: (symbols have their usual meaning)",
+        "options": {
+          "A": "V/9.5√𝑹",
+          "B": "V/2R",
+          "C": "nl2/2R",
+          "D": "nl2/R"
+        },
+        "answer": "A",
+        "id": 6
+      },
+      {
+        "text": "The minimum length of Transition Curves as per Indian Road Congress for plain terrain is: (Symbols have their usual meaning)",
+        "options": {
+          "A": "80/ (75 + J)",
+          "B": "2.7 V²/R",
+          "C": "V²/225 R",
+          "D": "0.0215 V³ /CR"
+        },
+        "answer": "D",
+        "id": 7
+      },
+      {
+        "text": "An ascending gradient 1 in 100 meets a descending gradient of 1 in 120. The deviation angle for designing of summit curve is:",
+        "options": {
+          "A": "1/600",
+          "B": "1/12000",
+          "C": "11/600",
+          "D": "-1/12000."
+        },
+        "answer": "C",
+        "id": 8
+      },
+      {
+        "text": "In the penetration test for bitumen, the least count in the penetrometer is:",
+        "options": {
+          "A": "0.1 mm",
+          "B": "0.01 mm",
+          "C": "0.001 mm",
+          "D": "1 mm"
+        },
+        "answer": "C",
+        "id": 9
+      },
+      {
+        "text": "According to Darcy's law, the rate of flow water through soil, for laminar flow condition in a saturated soil is: (Where, Q = rate of flow, i = hydraulic gradient, k = Darcy's coefficient of permeability, A = total cross sectional area of soil mass perpendicular to direction of flow.)",
+        "options": {
+          "A": "Q = ki²A",
+          "B": "Q = kiA²",
+          "C": "Q = kiA",
+          "D": "Q = k²iA"
+        },
+        "answer": "B",
+        "id": 10
+      },
+      {
+        "text": "The root zone of an irrigation soil has dry weight of 15 kN/m² and a field capacity of 30%. The depth of moisture in the root zone at field capacity is: (Take unit weight of water = 9.81 kN/m³)",
+        "options": {
+          "A": "600 mm/m",
+          "B": "779 mm/m",
+          "C": "800 mm/m",
+          "D": "459 mm/m"
+        },
+        "answer": "D",
+        "id": 11
+      },
+      {
+        "text": "The salinity concentration of soil solution (Cs) is given by which of the following formulas?  Civil JunctionWhere, C = concentration of salt in irrigation water, Q = total quantity of water applied to the soil, Cu = consumptive use of water, peff =Useful rainfall)",
+        "options": {
+          "A": "Cs = C2 Q2 / Q - (Cu - peff)",
+          "B": "Cs = C.Q / Q - (Cu - peff)",
+          "C": "Cs = C.Q / 2[ Q - (Cu - peff)]",
+          "D": "Cs = C.Q2 / Q - (Cu - peff)"
+        },
+        "answer": "D",
+        "id": 12
+      },
+      {
+        "text": "The optimal number of rain gauge stations N required for a desired accuracy in the estimation of mean rainfall is: (C_v = the coefficient of variations of the values, e = error in the percentage)",
+        "options": {
+          "A": "(Cv / ∈)²",
+          "B": "Cv /∈²",
+          "C": "Cv / ∈",
+          "D": "Cv² / ∈"
+        },
+        "answer": "B",
+        "id": 13
+      },
+      {
+        "text": "In the method of irrigation, water is applied to a field by means of small, narrow field channel and is suitable for crops grown in rows. Since the water is not applied to the entire area, the consumption of water is less, is described by which method of irrigation?",
+        "options": {
+          "A": "Flood irrigation",
+          "B": "Furrow irrigation",
+          "C": "Perennial irrigation",
+          "D": "Basin irrigation"
+        },
+        "answer": "A",
+        "id": 14
+      },
+      {
+        "text": "The stress level below which a material has a high probability of not failing under reversal of stress is known as:",
+        "options": {
+          "A": "Endurance limit",
+          "B": "Proportional limit",
+          "C": "Tolerance limit",
+          "D": "Elastic limit"
+        },
+        "answer": "A",
+        "id": 15
+      },
+      {
+        "text": "In terms of bulk modulus (K) and modulus of rigidity (G), the Poisson's ratio can be expressed as:",
+        "options": {
+          "A": "(3K + 4G) / (6K - 4G)",
+          "B": "(3K - 2G) / (6K + 2G)",
+          "C": "(3K + 2G) / (6K - 4G)",
+          "D": "(3K - 4G) / (6K + 4G)"
+        },
+        "answer": "D",
+        "id": 16
+      },
+      {
+        "text": "If the Poisson's ratio for a material is 0.5, then the elastic modulus for the material is:",
+        "options": {
+          "A": "Four times its shear modulus",
+          "B": "Equal to its shear modulus",
+          "C": "Half of its shear modulus",
+          "D": "Three times its shear modulus ."
+        },
+        "answer": "B",
+        "id": 17
+      },
+      {
+        "text": "Number of nominal bricks required for 15 m³ of brick work is approximately: (consider nominal size of bricks)",
+        "options": {
+          "A": "6750",
+          "B": "7200",
+          "C": "6000",
+          "D": "7500"
+        },
+        "answer": "A",
+        "id": 18
+      },
+      {
+        "text": "The timber preservative \"creosote\" belongs to the group of:",
+        "options": {
+          "A": "Tar oil types",
+          "B": "Organic solvent type",
+          "C": "Inorganic solvent type",
+          "D": "Water soluble salts"
+        },
+        "answer": "D",
+        "id": 19
+      },
+      {
+        "text": "The optimistic time, most likely time and pessimistic time estimates of an activity are 5, 10 and 21 days respectively. What are the expected time and standard deviation?",
+        "options": {
+          "A": "11, 2.67",
+          "B": "11, 4.67",
+          "C": "10, 16.27",
+          "D": "12, 3.67"
+        },
+        "answer": "C",
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "M4",
+    "title": "Exam M4",
+    "questions": [
+      {
+        "text": "A wooden box of rectangular section 1.25 m wide, 2 m deep, 4 m long floats horizontally in sea water. If the specific gravity of wood is 0.64 and for sea water = 1.025. Then the position of center of buoyancy is given by:",
+        "options": {
+          "A": "0.62 m above the base",
+          "B": "0.84 m above the base",
+          "C": "1.24 m above the base",
+          "D": "0.25 m above the base"
+        },
+        "answer": "A",
+        "id": 1
+      },
+      {
+        "text": "The discharge through a V-notch varies as: (Where H is the head)",
+        "options": {
+          "A": "H",
+          "B": "H3/2",
+          "C": "H5/2",
+          "D": "H1/2"
+        },
+        "answer": "C",
+        "id": 2
+      },
+      {
+        "text": "Which of the following is the unit of kinematic viscosity?",
+        "options": {
+          "A": "Poise",
+          "B": "Stoke",
+          "C": "Faraday",
+          "D": "Pascal"
+        },
+        "answer": "B",
+        "id": 3
+      },
+      {
+        "text": "At sharp horizontal curves on highways radius \"R\" (in meters), the percentage reduction in gradient, provided to compensate the loss of traction force due to curvature is:",
+        "options": {
+          "A": "75/R",
+          "B": "100/R",
+          "C": "125/R",
+          "D": "50/R."
+        },
+        "answer": "D",
+        "id": 4
+      },
+      {
+        "text": "As speed increases, friction coefficient:",
+        "options": {
+          "A": "Increases",
+          "B": "Remains same",
+          "C": "Decreases",
+          "D": "First increases then decreases"
+        },
+        "answer": "B",
+        "id": 5
+      },
+      {
+        "text": "Psychological Widening in the extra width provided in the pavement on the curves is: (symbols have their usual meaning)",
+        "options": {
+          "A": "V/9.5√𝑹",
+          "B": "V/2R",
+          "C": "nl2/2R",
+          "D": "nl2/R"
+        },
+        "answer": "A",
+        "id": 6
+      },
+      {
+        "text": "The minimum length of Transition Curves as per Indian Road Congress for plain terrain is: (Symbols have their usual meaning)",
+        "options": {
+          "A": "80/ (75 + J)",
+          "B": "2.7 V²/R",
+          "C": "V²/225 R",
+          "D": "0.0215 V³ /CR"
+        },
+        "answer": "D",
+        "id": 7
+      },
+      {
+        "text": "An ascending gradient 1 in 100 meets a descending gradient of 1 in 120. The deviation angle for designing of summit curve is:",
+        "options": {
+          "A": "1/600",
+          "B": "1/12000",
+          "C": "11/600",
+          "D": "-1/12000."
+        },
+        "answer": "C",
+        "id": 8
+      },
+      {
+        "text": "In the penetration test for bitumen, the least count in the penetrometer is:",
+        "options": {
+          "A": "0.1 mm",
+          "B": "0.01 mm",
+          "C": "0.001 mm",
+          "D": "1 mm"
+        },
+        "answer": "C",
+        "id": 9
+      },
+      {
+        "text": "According to Darcy's law, the rate of flow water through soil, for laminar flow condition in a saturated soil is: (Where, Q = rate of flow, i = hydraulic gradient, k = Darcy's coefficient of permeability, A = total cross sectional area of soil mass perpendicular to direction of flow.)",
+        "options": {
+          "A": "Q = ki²A",
+          "B": "Q = kiA²",
+          "C": "Q = kiA",
+          "D": "Q = k²iA"
+        },
+        "answer": "B",
+        "id": 10
+      },
+      {
+        "text": "The root zone of an irrigation soil has dry weight of 15 kN/m² and a field capacity of 30%. The depth of moisture in the root zone at field capacity is: (Take unit weight of water = 9.81 kN/m³)",
+        "options": {
+          "A": "600 mm/m",
+          "B": "779 mm/m",
+          "C": "800 mm/m",
+          "D": "459 mm/m"
+        },
+        "answer": "D",
+        "id": 11
+      },
+      {
+        "text": "The salinity concentration of soil solution (Cs) is given by which of the following formulas?  Civil JunctionWhere, C = concentration of salt in irrigation water, Q = total quantity of water applied to the soil, Cu = consumptive use of water, peff =Useful rainfall)",
+        "options": {
+          "A": "Cs = C2 Q2 / Q - (Cu - peff)",
+          "B": "Cs = C.Q / Q - (Cu - peff)",
+          "C": "Cs = C.Q / 2[ Q - (Cu - peff)]",
+          "D": "Cs = C.Q2 / Q - (Cu - peff)"
+        },
+        "answer": "D",
+        "id": 12
+      },
+      {
+        "text": "The optimal number of rain gauge stations N required for a desired accuracy in the estimation of mean rainfall is: (C_v = the coefficient of variations of the values, e = error in the percentage)",
+        "options": {
+          "A": "(Cv / ∈)²",
+          "B": "Cv /∈²",
+          "C": "Cv / ∈",
+          "D": "Cv² / ∈"
+        },
+        "answer": "B",
+        "id": 13
+      },
+      {
+        "text": "In the method of irrigation, water is applied to a field by means of small, narrow field channel and is suitable for crops grown in rows. Since the water is not applied to the entire area, the consumption of water is less, is described by which method of irrigation?",
+        "options": {
+          "A": "Flood irrigation",
+          "B": "Furrow irrigation",
+          "C": "Perennial irrigation",
+          "D": "Basin irrigation"
+        },
+        "answer": "A",
+        "id": 14
+      },
+      {
+        "text": "The stress level below which a material has a high probability of not failing under reversal of stress is known as:",
+        "options": {
+          "A": "Endurance limit",
+          "B": "Proportional limit",
+          "C": "Tolerance limit",
+          "D": "Elastic limit"
+        },
+        "answer": "A",
+        "id": 15
+      },
+      {
+        "text": "In terms of bulk modulus (K) and modulus of rigidity (G), the Poisson's ratio can be expressed as:",
+        "options": {
+          "A": "(3K + 4G) / (6K - 4G)",
+          "B": "(3K - 2G) / (6K + 2G)",
+          "C": "(3K + 2G) / (6K - 4G)",
+          "D": "(3K - 4G) / (6K + 4G)"
+        },
+        "answer": "D",
+        "id": 16
+      },
+      {
+        "text": "If the Poisson's ratio for a material is 0.5, then the elastic modulus for the material is:",
+        "options": {
+          "A": "Four times its shear modulus",
+          "B": "Equal to its shear modulus",
+          "C": "Half of its shear modulus",
+          "D": "Three times its shear modulus ."
+        },
+        "answer": "B",
+        "id": 17
+      },
+      {
+        "text": "Number of nominal bricks required for 15 m³ of brick work is approximately: (consider nominal size of bricks)",
+        "options": {
+          "A": "6750",
+          "B": "7200",
+          "C": "6000",
+          "D": "7500"
+        },
+        "answer": "A",
+        "id": 18
+      },
+      {
+        "text": "The timber preservative \"creosote\" belongs to the group of:",
+        "options": {
+          "A": "Tar oil types",
+          "B": "Organic solvent type",
+          "C": "Inorganic solvent type",
+          "D": "Water soluble salts"
+        },
+        "answer": "D",
+        "id": 19
+      },
+      {
+        "text": "The optimistic time, most likely time and pessimistic time estimates of an activity are 5, 10 and 21 days respectively. What are the expected time and standard deviation?",
+        "options": {
+          "A": "11, 2.67",
+          "B": "11, 4.67",
+          "C": "10, 16.27",
+          "D": "12, 3.67"
+        },
+        "answer": "C",
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "M5",
+    "title": "Exam M5",
+    "questions": [
+      {
+        "text": "A wooden box of rectangular section 1.25 m wide, 2 m deep, 4 m long floats horizontally in sea water. If the specific gravity of wood is 0.64 and for sea water = 1.025. Then the position of center of buoyancy is given by:",
+        "options": {
+          "A": "0.62 m above the base",
+          "B": "0.84 m above the base",
+          "C": "1.24 m above the base",
+          "D": "0.25 m above the base"
+        },
+        "answer": "A",
+        "id": 1
+      },
+      {
+        "text": "The discharge through a V-notch varies as: (Where H is the head)",
+        "options": {
+          "A": "H",
+          "B": "H3/2",
+          "C": "H5/2",
+          "D": "H1/2"
+        },
+        "answer": "C",
+        "id": 2
+      },
+      {
+        "text": "Which of the following is the unit of kinematic viscosity?",
+        "options": {
+          "A": "Poise",
+          "B": "Stoke",
+          "C": "Faraday",
+          "D": "Pascal"
+        },
+        "answer": "B",
+        "id": 3
+      },
+      {
+        "text": "At sharp horizontal curves on highways radius \"R\" (in meters), the percentage reduction in gradient, provided to compensate the loss of traction force due to curvature is:",
+        "options": {
+          "A": "75/R",
+          "B": "100/R",
+          "C": "125/R",
+          "D": "50/R."
+        },
+        "answer": "D",
+        "id": 4
+      },
+      {
+        "text": "As speed increases, friction coefficient:",
+        "options": {
+          "A": "Increases",
+          "B": "Remains same",
+          "C": "Decreases",
+          "D": "First increases then decreases"
+        },
+        "answer": "B",
+        "id": 5
+      },
+      {
+        "text": "Psychological Widening in the extra width provided in the pavement on the curves is: (symbols have their usual meaning)",
+        "options": {
+          "A": "V/9.5√𝑹",
+          "B": "V/2R",
+          "C": "nl2/2R",
+          "D": "nl2/R"
+        },
+        "answer": "A",
+        "id": 6
+      },
+      {
+        "text": "The minimum length of Transition Curves as per Indian Road Congress for plain terrain is: (Symbols have their usual meaning)",
+        "options": {
+          "A": "80/ (75 + J)",
+          "B": "2.7 V²/R",
+          "C": "V²/225 R",
+          "D": "0.0215 V³ /CR"
+        },
+        "answer": "D",
+        "id": 7
+      },
+      {
+        "text": "An ascending gradient 1 in 100 meets a descending gradient of 1 in 120. The deviation angle for designing of summit curve is:",
+        "options": {
+          "A": "1/600",
+          "B": "1/12000",
+          "C": "11/600",
+          "D": "-1/12000."
+        },
+        "answer": "C",
+        "id": 8
+      },
+      {
+        "text": "In the penetration test for bitumen, the least count in the penetrometer is:",
+        "options": {
+          "A": "0.1 mm",
+          "B": "0.01 mm",
+          "C": "0.001 mm",
+          "D": "1 mm"
+        },
+        "answer": "C",
+        "id": 9
+      },
+      {
+        "text": "According to Darcy's law, the rate of flow water through soil, for laminar flow condition in a saturated soil is: (Where, Q = rate of flow, i = hydraulic gradient, k = Darcy's coefficient of permeability, A = total cross sectional area of soil mass perpendicular to direction of flow.)",
+        "options": {
+          "A": "Q = ki²A",
+          "B": "Q = kiA²",
+          "C": "Q = kiA",
+          "D": "Q = k²iA"
+        },
+        "answer": "B",
+        "id": 10
+      },
+      {
+        "text": "The root zone of an irrigation soil has dry weight of 15 kN/m² and a field capacity of 30%. The depth of moisture in the root zone at field capacity is: (Take unit weight of water = 9.81 kN/m³)",
+        "options": {
+          "A": "600 mm/m",
+          "B": "779 mm/m",
+          "C": "800 mm/m",
+          "D": "459 mm/m"
+        },
+        "answer": "D",
+        "id": 11
+      },
+      {
+        "text": "The salinity concentration of soil solution (Cs) is given by which of the following formulas?  Civil JunctionWhere, C = concentration of salt in irrigation water, Q = total quantity of water applied to the soil, Cu = consumptive use of water, peff =Useful rainfall)",
+        "options": {
+          "A": "Cs = C2 Q2 / Q - (Cu - peff)",
+          "B": "Cs = C.Q / Q - (Cu - peff)",
+          "C": "Cs = C.Q / 2[ Q - (Cu - peff)]",
+          "D": "Cs = C.Q2 / Q - (Cu - peff)"
+        },
+        "answer": "D",
+        "id": 12
+      },
+      {
+        "text": "The optimal number of rain gauge stations N required for a desired accuracy in the estimation of mean rainfall is: (C_v = the coefficient of variations of the values, e = error in the percentage)",
+        "options": {
+          "A": "(Cv / ∈)²",
+          "B": "Cv /∈²",
+          "C": "Cv / ∈",
+          "D": "Cv² / ∈"
+        },
+        "answer": "B",
+        "id": 13
+      },
+      {
+        "text": "In the method of irrigation, water is applied to a field by means of small, narrow field channel and is suitable for crops grown in rows. Since the water is not applied to the entire area, the consumption of water is less, is described by which method of irrigation?",
+        "options": {
+          "A": "Flood irrigation",
+          "B": "Furrow irrigation",
+          "C": "Perennial irrigation",
+          "D": "Basin irrigation"
+        },
+        "answer": "A",
+        "id": 14
+      },
+      {
+        "text": "The stress level below which a material has a high probability of not failing under reversal of stress is known as:",
+        "options": {
+          "A": "Endurance limit",
+          "B": "Proportional limit",
+          "C": "Tolerance limit",
+          "D": "Elastic limit"
+        },
+        "answer": "A",
+        "id": 15
+      },
+      {
+        "text": "In terms of bulk modulus (K) and modulus of rigidity (G), the Poisson's ratio can be expressed as:",
+        "options": {
+          "A": "(3K + 4G) / (6K - 4G)",
+          "B": "(3K - 2G) / (6K + 2G)",
+          "C": "(3K + 2G) / (6K - 4G)",
+          "D": "(3K - 4G) / (6K + 4G)"
+        },
+        "answer": "D",
+        "id": 16
+      },
+      {
+        "text": "If the Poisson's ratio for a material is 0.5, then the elastic modulus for the material is:",
+        "options": {
+          "A": "Four times its shear modulus",
+          "B": "Equal to its shear modulus",
+          "C": "Half of its shear modulus",
+          "D": "Three times its shear modulus ."
+        },
+        "answer": "B",
+        "id": 17
+      },
+      {
+        "text": "Number of nominal bricks required for 15 m³ of brick work is approximately: (consider nominal size of bricks)",
+        "options": {
+          "A": "6750",
+          "B": "7200",
+          "C": "6000",
+          "D": "7500"
+        },
+        "answer": "A",
+        "id": 18
+      },
+      {
+        "text": "The timber preservative \"creosote\" belongs to the group of:",
+        "options": {
+          "A": "Tar oil types",
+          "B": "Organic solvent type",
+          "C": "Inorganic solvent type",
+          "D": "Water soluble salts"
+        },
+        "answer": "D",
+        "id": 19
+      },
+      {
+        "text": "The optimistic time, most likely time and pessimistic time estimates of an activity are 5, 10 and 21 days respectively. What are the expected time and standard deviation?",
+        "options": {
+          "A": "11, 2.67",
+          "B": "11, 4.67",
+          "C": "10, 16.27",
+          "D": "12, 3.67"
+        },
+        "answer": "C",
+        "id": 20
+      }
+    ]
+  }
+]
