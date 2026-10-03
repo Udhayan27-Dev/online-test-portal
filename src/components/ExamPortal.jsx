@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 const ExamPortal = ({ exam, answers, setAnswers, visited, setVisited, onSubmit, onBack }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [mobileGridPage, setMobileGridPage] = useState(0);
+  const [showConfirmModal, setShowConfirmModal] = useState(false);
 
   useEffect(() => {
     setMobileGridPage(Math.floor(currentIndex / 5));
@@ -36,7 +37,17 @@ const ExamPortal = ({ exam, answers, setAnswers, visited, setVisited, onSubmit, 
     }
   };
 
-  const allAnswered = exam.questions.every(q => answers[q.id]);
+  const answeredCount = exam.questions.filter(q => answers[q.id] !== undefined && answers[q.id] !== null).length;
+  const unansweredCount = exam.questions.length - answeredCount;
+
+  const handleOpenSubmitModal = () => {
+    setShowConfirmModal(true);
+  };
+
+  const handleConfirmSubmit = () => {
+    setShowConfirmModal(false);
+    onSubmit();
+  };
 
   const getStatusClass = (question) => {
     if (exam.questions[currentIndex].id === question.id) return 'status-current';
@@ -54,9 +65,8 @@ const ExamPortal = ({ exam, answers, setAnswers, visited, setVisited, onSubmit, 
         </div>
         <div className="exam-header-right">
           <button 
-            className={`submit-btn ${allAnswered ? 'enabled' : 'disabled'}`}
-            onClick={allAnswered ? onSubmit : null}
-            disabled={!allAnswered}
+            className="submit-btn enabled"
+            onClick={handleOpenSubmitModal}
           >
             Submit Exam
           </button>
@@ -143,8 +153,50 @@ const ExamPortal = ({ exam, answers, setAnswers, visited, setVisited, onSubmit, 
           </div>
         </aside>
       </div>
+
+      {showConfirmModal && (
+        <div className="modal-overlay" onClick={() => setShowConfirmModal(false)}>
+          <div className="modal-content fade-in" onClick={e => e.stopPropagation()}>
+            <div className="modal-header">
+              <h3>Submit Exam</h3>
+              <button className="modal-close-btn" onClick={() => setShowConfirmModal(false)}>&times;</button>
+            </div>
+            <div className="modal-body">
+              <p className="modal-desc">Are you sure you want to submit your exam?</p>
+              <div className="modal-stats">
+                <div className="modal-stat-card total">
+                  <span className="stat-label">Total Questions</span>
+                  <span className="stat-value">{exam.questions.length}</span>
+                </div>
+                <div className="modal-stat-card answered">
+                  <span className="stat-label">Answered</span>
+                  <span className="stat-value">{answeredCount}</span>
+                </div>
+                <div className="modal-stat-card unanswered">
+                  <span className="stat-label">Unanswered</span>
+                  <span className="stat-value">{unansweredCount}</span>
+                </div>
+              </div>
+              {unansweredCount > 0 && (
+                <div className="modal-warning">
+                  ⚠️ You have <strong>{unansweredCount}</strong> unanswered question{unansweredCount > 1 ? 's' : ''}. You can still resume your exam to answer them.
+                </div>
+              )}
+            </div>
+            <div className="modal-footer">
+              <button className="modal-btn cancel-btn" onClick={() => setShowConfirmModal(false)}>
+                Resume Exam
+              </button>
+              <button className="modal-btn submit-confirm-btn" onClick={handleConfirmSubmit}>
+                Confirm & Reveal Marks
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
 
 export default ExamPortal;
+
